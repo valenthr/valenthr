@@ -5,6 +5,7 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
 
 ## Hard skills
 * SQL
+* Python
 * Advertising campaigns analysis
 * Product analysis
 * Basics of mathematical statistics
@@ -13,6 +14,7 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
 ## Tools
 
 * BigQuery
+* Amplitude
 * Power BI
 * Looker Studio
 * Tableau
