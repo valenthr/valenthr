@@ -38,6 +38,7 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
 * [Supermarket sales dashboard](https://github.com/valenthr/supermarket_sales_dashboard)
 * [Music listeners behavior](https://github.com/valenthr/music_listeners_behavior).
 * [SaaS revenue analysis](https://github.com/valenthr/SaaS_revenue_analysis/).
+* [Developers survey analysis](https://github.com/valenthr/developers_survey_analysis/blob/main/README.md)
 <!---
 valenthr/valenthr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
