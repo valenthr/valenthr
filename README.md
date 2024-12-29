@@ -31,8 +31,8 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
   
 ## Projects
 
+* [A/B testing](https://github.com/valenthr/ABtest_analysis)
 * [Credit applications analysis](https://github.com/valenthr/credit_applications_analysis/tree/main)
-* [Car price prediction](https://github.com/valenthr/car_price_prediction.github.io)
 * [Game users analysis](https://github.com/valenthr/gameusers/blob/main/README.md)
 * [Analysis of marketing campaigns](https://github.com/valenthr/ad_campaigns)
 * [Analysis of google merch shop](https://github.com/valenthr/purchase_funnel/tree/main)
