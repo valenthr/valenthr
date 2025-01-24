@@ -17,6 +17,7 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
 * [Music listeners behavior](https://github.com/valenthr/music_listeners_behavior)
 * [SaaS revenue analysis](https://github.com/valenthr/SaaS_revenue_analysis/)
 * [Supermarket sales dashboard](https://github.com/valenthr/supermarket_sales_dashboard)
+* [Developers survey analysis](https://github.com/valenthr/developers_survey_analysis/tree/main)
 ### Basics of mathematical statistics
 * [A/B testing](https://github.com/valenthr/ABtest_analysis)
 ### Predictive analysis
