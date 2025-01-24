@@ -16,6 +16,7 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
 * Python libraries (NumPy, SciPy, Pandas, Mathplotlib, Seaborn, Statsmodels)
 * BigQuery
 * Amplitude
+* Google analytics 4
 * Power BI
 * Looker Studio
 * Tableau
