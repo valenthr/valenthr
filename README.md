@@ -3,7 +3,7 @@
 ## Data analyst
 As a Data Analyst I specialize in transforming complex datasets into impactful insights that guide strategic decision-making. With a strong ability to convert raw data into actionable intelligence, I am adept at delivering clear, meaningful analytics that support key business objectives.
 
-## Hard skills
+##  Navigation of projects by hard skills used
 ### SQL
 * [Analysis of marketing campaigns](https://github.com/valenthr/ad_campaigns)
 * [Analysis of google merch shop](https://github.com/valenthr/purchase_funnel/tree/main)
@@ -35,6 +35,7 @@ As a Data Analyst I specialize in transforming complex datasets into impactful i
 ### Amplitude
 * [Music listeners behavior](https://github.com/valenthr/music_listeners_behavior).
 ### Google Analytics 4
+* Connection and data collection of [another version of my portfolio](https://sites.google.com/view/valentynhrechanyi/summary)
 ### Power BI
 * [Supermarket sales dashboard](https://github.com/valenthr/supermarket_sales_dashboard)
 ### Looker Studio
